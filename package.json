@@ -10,7 +10,7 @@
   "author": "Renan",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^12.5.1",
+    "cypress": "^15.9.0",
     "faker": "^5.5.3",
     "gerador-validador-cpf": "^5.0.2"
   }
